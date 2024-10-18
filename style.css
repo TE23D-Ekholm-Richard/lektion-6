@@ -1,0 +1,12 @@
+.box-grid{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-template-rows: 20vh 80vh;
+    background-color: #00FFFF;  
+
+}
+
+.jonkler{
+    height: 99%;
+    width: auto;
+}
