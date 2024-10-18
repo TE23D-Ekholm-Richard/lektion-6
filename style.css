@@ -3,10 +3,14 @@
     grid-template-columns: 1fr 4fr;
     grid-template-rows: 20vh 80vh;
     background-color: #00FFFF;  
-
+    gap: 10px;
 }
 
 .jonkler{
     height: 99%;
     width: auto;
+}
+
+h1{
+    text-align: center;
 }
